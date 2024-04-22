@@ -4,8 +4,10 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
+
         Scanner leitura = new Scanner(System.in);
 
+        // Aqui define as variáveis
         int idade;
         int dias;
     
